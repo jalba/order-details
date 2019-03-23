@@ -1,0 +1,14 @@
+.app {
+  width: 80%;
+  margin: auto;
+  max-width: 924px;
+}
+
+.app-header {
+  padding: 30px 0;
+}
+
+.order-status {
+  height: 35px;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+.status-container {
+  float: left;
+  line-height: 35px;
+}
+
+.status-container img {
+  margin-right: 10px;
+  vertical-align: middle;
+  width: 20px;
+}
+
+.status-container span {
+  margin-top: 1px;
+  vertical-align: middle;
+}

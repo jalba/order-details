@@ -1,0 +1,12 @@
+.button {
+  border: 1px solid;
+  cursor: pointer;
+  float: right;
+  max-height: 35px;
+  min-width: 92px;
+  padding: 10px;
+}
+
+.button img {
+  width: 16px;
+}

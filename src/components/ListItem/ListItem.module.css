@@ -1,0 +1,52 @@
+.list-item {
+  border: 1px solid lightgrey;
+  list-style-type: none;
+  margin-top: 5px;
+  padding: 5% 0 5% 5%;
+}
+
+.total {
+  float: right;
+  margin-right: 5px;
+}
+
+.edit {
+  cursor: pointer;
+  float: right;
+  margin-right: 20px;
+}
+
+.edit img {
+  width: 16px;
+}
+
+.edit-button {
+  margin-right: 10px;
+}
+
+.edit-text:hover {
+  text-decoration: underline;
+}
+
+.add-qty {
+  float: right;
+  font-size: 12px;
+  line-height: 16px;
+  margin-right: 20px;
+}
+
+.add-qty input {
+  margin-left: 5px;
+  width: 20px;
+}
+
+.quantity {
+  margin-left: 5px;
+}
+
+.disabled {
+  pointer-events: none;
+  position: relative;
+  top: -3px;
+  vertical-align: top;
+}

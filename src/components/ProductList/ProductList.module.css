@@ -1,0 +1,31 @@
+.loading {
+  display: block;
+  margin: 25% auto;
+  width: 46px;
+}
+
+.list {
+  padding: 0;
+}
+
+.total {
+  float: right;
+  margin-right: 5px;
+  width: fit-content;
+}
+
+.add {
+  cursor: pointer;
+  float: left;
+  width: fit-content;
+}
+
+.add-icon {
+  margin-right: 5px;
+  width: 17px;
+}
+
+.add-text {
+  line-height: 20px;
+  vertical-align: top;
+}
